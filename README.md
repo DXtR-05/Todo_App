@@ -17,7 +17,7 @@ Check out the live demo of the To-Do List application: [To-Do List App on Vercel
 
 ## Screenshots
 
-![Screenshot](https://via.placeholder.com/800x400)  <!-- Update with actual screenshot -->
+[![Screenshot-87.png](https://i.postimg.cc/FzBjZ86X/Screenshot-87.png)](https://postimg.cc/vx5g8qM0)  <!-- Update with actual screenshot -->
 
 ## Getting Started
 
