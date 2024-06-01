@@ -25,6 +25,8 @@ To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 
+- React.js
+- CSS
 - Node.js
 - npm (Node Package Manager)
 
