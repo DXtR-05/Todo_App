@@ -35,4 +35,4 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/DXtR-05/todo-list-app.git
